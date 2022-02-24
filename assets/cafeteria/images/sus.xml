@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sus.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sus0000" x="100" y="100" width="1983" height="578" pivotX="24.95" pivotY="614.85" frameX="0" frameY="-36" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0001" x="100" y="100" width="1983" height="578" frameX="0" frameY="-36" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0002" x="100" y="778" width="1946" height="602" frameX="-18" frameY="-13" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0003" x="100" y="778" width="1946" height="602" frameX="-18" frameY="-13" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0004" x="100" y="1480" width="1939" height="610" frameX="-22" frameY="-5" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0005" x="100" y="1480" width="1939" height="610" frameX="-22" frameY="-5" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0006" x="100" y="2190" width="1934" height="614" frameX="-24" frameY="0" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0007" x="100" y="2190" width="1934" height="614" frameX="-24" frameY="0" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0008" x="100" y="2190" width="1934" height="614" frameX="-24" frameY="0" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0009" x="100" y="2190" width="1934" height="614" frameX="-24" frameY="0" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0010" x="100" y="2190" width="1934" height="614" frameX="-24" frameY="0" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0011" x="100" y="2190" width="1934" height="614" frameX="-24" frameY="0" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0012" x="100" y="2190" width="1934" height="614" frameX="-24" frameY="0" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0013" x="100" y="2190" width="1934" height="614" frameX="-24" frameY="0" frameWidth="1983" frameHeight="615"/>
+	<SubTexture name="sus0014" x="100" y="2190" width="1934" height="614" frameX="-24" frameY="0" frameWidth="1983" frameHeight="615"/>
+</TextureAtlas>

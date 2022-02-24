@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rawpostor.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IMPOSTOR_DOWN0000" x="100" y="100" width="401" height="340" frameX="0" frameY="-115" frameWidth="401" frameHeight="455"/>
+	<SubTexture name="IMPOSTOR_DOWN0001" x="601" y="100" width="350" height="409" frameX="-25" frameY="-46" frameWidth="401" frameHeight="455"/>
+	<SubTexture name="IMPOSTOR_DOWN0002" x="1051" y="100" width="326" height="440" frameX="-37" frameY="-15" frameWidth="401" frameHeight="455"/>
+	<SubTexture name="IMPOSTOR_DOWN0003" x="1477" y="100" width="318" height="452" frameX="-41" frameY="-3" frameWidth="401" frameHeight="455"/>
+	<SubTexture name="IMPOSTOR_DOWN0004" x="1895" y="100" width="316" height="455" frameX="-42" frameY="0" frameWidth="401" frameHeight="455"/>
+	<SubTexture name="IMPOSTOR_DOWN0005" x="2311" y="100" width="315" height="455" frameX="-43" frameY="0" frameWidth="401" frameHeight="455"/>
+	<SubTexture name="IMPOSTOR_DOWN0006" x="2726" y="100" width="315" height="455" frameX="-43" frameY="0" frameWidth="401" frameHeight="455"/>
+	<SubTexture name="IMPOSTOR_IDLE0000" x="3141" y="100" width="398" height="397" frameX="0" frameY="-54" frameWidth="398" frameHeight="451"/>
+	<SubTexture name="IMPOSTOR_IDLE0001" x="100" y="655" width="368" height="427" frameX="-15" frameY="-21" frameWidth="398" frameHeight="451"/>
+	<SubTexture name="IMPOSTOR_IDLE0002" x="568" y="655" width="355" height="440" frameX="-21" frameY="-7" frameWidth="398" frameHeight="451"/>
+	<SubTexture name="IMPOSTOR_IDLE0003" x="1023" y="655" width="349" height="446" frameX="-24" frameY="-1" frameWidth="398" frameHeight="451"/>
+	<SubTexture name="IMPOSTOR_IDLE0004" x="1472" y="655" width="348" height="447" frameX="-25" frameY="0" frameWidth="398" frameHeight="451"/>
+	<SubTexture name="IMPOSTOR_IDLE0005" x="1920" y="655" width="348" height="447" frameX="-25" frameY="0" frameWidth="398" frameHeight="451"/>
+	<SubTexture name="IMPOSTOR_IDLE0006" x="2368" y="655" width="348" height="447" frameX="-25" frameY="0" frameWidth="398" frameHeight="451"/>
+	<SubTexture name="IMPOSTOR_LEFT0000" x="2816" y="655" width="357" height="534" frameX="0" frameY="0" frameWidth="401" frameHeight="534"/>
+	<SubTexture name="IMPOSTOR_LEFT0001" x="3273" y="655" width="375" height="483" frameX="-8" frameY="-51" frameWidth="401" frameHeight="534"/>
+	<SubTexture name="IMPOSTOR_LEFT0002" x="100" y="1289" width="383" height="458" frameX="-12" frameY="-75" frameWidth="401" frameHeight="534"/>
+	<SubTexture name="IMPOSTOR_LEFT0003" x="583" y="1289" width="386" height="449" frameX="-13" frameY="-84" frameWidth="401" frameHeight="534"/>
+	<SubTexture name="IMPOSTOR_LEFT0004" x="1069" y="1289" width="387" height="447" frameX="-14" frameY="-86" frameWidth="401" frameHeight="534"/>
+	<SubTexture name="IMPOSTOR_LEFT0005" x="1556" y="1289" width="387" height="446" frameX="-14" frameY="-87" frameWidth="401" frameHeight="534"/>
+	<SubTexture name="IMPOSTOR_LEFT0006" x="2043" y="1289" width="387" height="446" frameX="-14" frameY="-87" frameWidth="401" frameHeight="534"/>
+	<SubTexture name="IMPOSTOR_RIGHT0000" x="2530" y="1289" width="423" height="535" frameX="-55" frameY="0" frameWidth="478" frameHeight="538"/>
+	<SubTexture name="IMPOSTOR_RIGHT0001" x="3053" y="1289" width="440" height="484" frameX="-22" frameY="-54" frameWidth="478" frameHeight="538"/>
+	<SubTexture name="IMPOSTOR_RIGHT0002" x="100" y="1924" width="448" height="459" frameX="-7" frameY="-79" frameWidth="478" frameHeight="538"/>
+	<SubTexture name="IMPOSTOR_RIGHT0003" x="648" y="1924" width="451" height="450" frameX="-1" frameY="-88" frameWidth="478" frameHeight="538"/>
+	<SubTexture name="IMPOSTOR_RIGHT0004" x="1199" y="1924" width="452" height="447" frameX="0" frameY="-91" frameWidth="478" frameHeight="538"/>
+	<SubTexture name="IMPOSTOR_RIGHT0005" x="1751" y="1924" width="452" height="447" frameX="0" frameY="-91" frameWidth="478" frameHeight="538"/>
+	<SubTexture name="IMPOSTOR_RIGHT0006" x="2303" y="1924" width="452" height="447" frameX="0" frameY="-91" frameWidth="478" frameHeight="538"/>
+	<SubTexture name="IMPOSTOR_UP0000" x="2855" y="1924" width="224" height="537" frameX="-29" frameY="0" frameWidth="283" frameHeight="537"/>
+	<SubTexture name="IMPOSTOR_UP0001" x="3179" y="1924" width="260" height="483" frameX="-11" frameY="-54" frameWidth="283" frameHeight="537"/>
+	<SubTexture name="IMPOSTOR_UP0002" x="3539" y="1924" width="276" height="459" frameX="-3" frameY="-78" frameWidth="283" frameHeight="537"/>
+	<SubTexture name="IMPOSTOR_UP0003" x="100" y="2561" width="282" height="450" frameX="0" frameY="-87" frameWidth="283" frameHeight="537"/>
+	<SubTexture name="IMPOSTOR_UP0004" x="482" y="2561" width="282" height="447" frameX="0" frameY="-90" frameWidth="283" frameHeight="537"/>
+	<SubTexture name="IMPOSTOR_UP0005" x="482" y="2561" width="282" height="447" frameX="0" frameY="-90" frameWidth="283" frameHeight="537"/>
+	<SubTexture name="IMPOSTOR_UP0006" x="482" y="2561" width="282" height="447" frameX="0" frameY="-90" frameWidth="283" frameHeight="537"/>
+</TextureAtlas>

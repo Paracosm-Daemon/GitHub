@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["rawpostor", "rawpostor", [223, 93, 252]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+
+	"weekBackground": "cafeteria",
+	"difficulties": "Normal",
+
+	"storyName": "",
+	"weekBefore": "player",
+	"weekName": "Freeplay",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

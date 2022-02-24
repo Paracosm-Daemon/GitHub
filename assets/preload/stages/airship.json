@@ -1,0 +1,8 @@
+{
+	"directory": "airship",
+	"defaultZoom": 1,
+
+	"boyfriend": [500, 100],
+	"girlfriend": [-150, 130],
+	"opponent": [-500, 100]
+}

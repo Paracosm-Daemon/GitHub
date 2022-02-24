@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle",
+	"image": "Menu_Player",
+	"position": [
+		400,
+		125
+	],
+	"scale": 0.4,
+	"confirm_anim": "Menu_Player"
+}

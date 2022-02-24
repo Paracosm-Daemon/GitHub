@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Gaming", "player", [236, 62, 62]]
+	],
+
+	"weekCharacters": [
+		"player",
+		"bf",
+		"gf"
+	],
+
+	"weekBackground": "cafeteria",
+	"difficulties": "Normal",
+
+	"storyName": "Annoying fucking red among us rap battles a blue dwarf",
+	"weekBefore": "tutorial",
+	"weekName": "Player",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
